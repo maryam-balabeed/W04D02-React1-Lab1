@@ -14,6 +14,5 @@
 * Modify src/index.js to:
     * Create a JavaScript object called ‘MenuList’ that stores all the details for a
     particular food of your choice. This object should have at least the following properties: name, price and image.
-    * Send the objects values using props. 
     * Create and render an element that displays all the information about the MenuList in an attractive way.
     * Apply some style to the output. 

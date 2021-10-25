@@ -12,7 +12,8 @@
 
 ## Task2:
 * Modify src/index.js to:
-    * Create a JavaScript object called ‘user’ that stores all the details for a
-    particular user of your app. This object should have at least the following properties: name, surname, date_of_birth, country, email, telephone, company, profile_picture, interests. The interests property should be used to store an array of the user’s interests.
-    * Create and render an element that displays all the information about the user in an attractive way.
+    * Create a JavaScript object called ‘MenuList’ that stores all the details for a
+    particular food of your choice. This object should have at least the following properties: name, price and image.
+    * Send the objects values using props. 
+    * Create and render an element that displays all the information about the MenuList in an attractive way.
     * Apply some style to the output. 
